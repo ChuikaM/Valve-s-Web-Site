@@ -75,12 +75,20 @@
 	height: 50%;
 }
 
+.valve-corporation-content > img
+{
+	width: 50%;
+	height: 50%;
+}
+
+
+
 .category-content-information
 {
 	text-align: center;
 }
 
-.profile
+.profile, .valve-corporation-content
 {
 	display: flex;
 	justify-content: space-around;
